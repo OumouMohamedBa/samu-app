@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "VERCEL_NPM_FORCE": "1"
+    }
+  }
+}
